@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @FabioLuisDias
+- 👋 Olá! Sou @FabioLuisDias
 
-- 🌱 I am currently studying the 4th period in Systems Analysis and Development, at UNIFAA, VALENÇA - RJ.
+- Recém formado em Análise e Desenvolvimento de Sistemas, na UNIFAA, VALENÇA - RJ.
+  Estudando para me tormar um futuro QA.
 
-<!---
-FabioLuisDias/FabioLuisDias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
