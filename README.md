@@ -4,3 +4,4 @@
   
 - Estudando para me tormar um futuro QA.
 
+- LinkedIn https://www.linkedin.com/in/fabioaraujo1991/
